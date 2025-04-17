@@ -1,0 +1,52 @@
+{
+  "7": {
+    "model_cnt": 6677,
+    "conv": 12586,
+    "dense": 34153,
+    "conv1d": 0,
+    "conv2d": 12586,
+    "activation": 35201,
+    "pooling": 3570,
+    "only_dense": 0
+  },
+  "5": {
+    "model_cnt": 6677,
+    "conv": 12490,
+    "dense": 20895,
+    "conv1d": 0,
+    "conv2d": 12490,
+    "activation": 24936,
+    "pooling": 3593,
+    "only_dense": 0
+  },
+  "3": {
+    "model_cnt": 6731,
+    "conv": 10623,
+    "dense": 9570,
+    "conv1d": 0,
+    "conv2d": 10623,
+    "activation": 15215,
+    "pooling": 3048,
+    "only_dense": 0
+  },
+  "4": {
+    "model_cnt": 6824,
+    "conv": 12179,
+    "dense": 15117,
+    "conv1d": 0,
+    "conv2d": 12179,
+    "activation": 20426,
+    "pooling": 3546,
+    "only_dense": 0
+  },
+  "6": {
+    "model_cnt": 6491,
+    "conv": 11989,
+    "dense": 26957,
+    "conv1d": 0,
+    "conv2d": 11989,
+    "activation": 29288,
+    "pooling": 3401,
+    "only_dense": 0
+  }
+}
